@@ -1,0 +1,20 @@
+{
+	"logging":{
+		"filename": "picapture.log",
+		"verbose": "True"
+	},
+	"capture":{
+		"videoprefix":"vid",
+		"videoduration": "10",
+		"detectionpause": "5",
+		"imageprefix": "img"
+	},
+	"email":{
+		"active": "True",
+		"server": "smtp.gmail.com",
+		"from":"r6spberryr3lay@gmail.com",
+		"user":"r6spberryr3lay",
+		"password":"VG289Aj6wdqR",
+		"to":["grahamj.watson@gmail.com"]
+	}
+}
